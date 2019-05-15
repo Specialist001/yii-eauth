@@ -1,14 +1,14 @@
 {
-    "name": "nodge/yii-eauth",
+    "name": "specialist001/yiieauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Maxim Zemskov",
-            "email": "nodge@yandex.ru"
+            "name": "Bobur",
+            "email": "darking-uz@yandex.ru"
         }
     ],
-    "homepage": "https://github.com/Nodge/yii-eauth",
+    "homepage": "https://github.com/Specialist001/yiieauth",
     "type": "library",
     "license": "BSD 2-Clause License",
     "require": {
