@@ -13,7 +13,7 @@
     "license": "BSD 2-Clause License",
     "require": {
         "php": ">=5.3.0",
-        "itmages/yiieoauth":"@stable",
+        "itmages/yii-eoauth":"@stable",
         "itmages/lightopenid":"@stable"
     },
     "autoload": {
