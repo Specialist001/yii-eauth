@@ -1,5 +1,5 @@
 {
-    "name": "specialist001/yiieauth",
+    "name": "specialist001/yii-eauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
     "minimum-stability": "stable",
     "authors": [
@@ -8,7 +8,7 @@
             "email": "darking-uz@yandex.ru"
         }
     ],
-    "homepage": "https://github.com/Specialist001/yiieauth",
+    "homepage": "https://github.com/Specialist001/yii-eauth",
     "type": "library",
     "license": "BSD 2-Clause License",
     "require": {
